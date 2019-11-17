@@ -1,1 +1,2 @@
-# tensorflow-quantity-
+详情请见pytorch-quantity
+原理相同，针对不同的框架的实现版本
